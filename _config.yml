@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : # "Academic Homepage"
-description              : # "Desc"
+title                    : "Yinlin Zhu"
+description              : ""
 repository               : "zyl24/yinlinzhu.github.io"
 google_scholar_stats_use_cdn : true
 
