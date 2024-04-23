@@ -19,6 +19,8 @@ redirect_from:
 
 
 
+I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Yat-sen University (SYSU). Before studying at SYSU, I received my B.S. (Computer Science and Engineering) degree at Shandong University in 2023. My research centers on graph machine learning, federated learning, and their intersection. I've dedicated efforts to modeling relational data, aiming to develop efficient and practical solutions. Feel free to reach out to me for any discussions or questions.
+
 
 
 
