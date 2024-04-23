@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yinlin Zhu"
 description              : ""
-repository               : "zyl24/yinlinzhu.github.io"
+repository               : "zyl24/zyl24.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yinlin Zhu"
   avatar           : "images/profile.jpg"
-  bio              : "CS Ph.D Student of Sun Yat-sen University, China."
+  bio              : "CS Ph.D Student of Sun Yat-sen University"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/351/1109.html"
+  orcid            : "https://orcid.org/0009-0009-9181-6972"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
