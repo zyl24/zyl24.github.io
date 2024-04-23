@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-## 📝 Publications
+## 📝 Publication Highlights
 (* denotes the equal contribution)
 - [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](https://arxiv.org/abs/2404.14061)
   
