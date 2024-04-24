@@ -30,7 +30,7 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
   
   **Yinlin Zhu**, Xunkai Li, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
   
-  arXiv preprint
+  arXiv preprint (Accepted by the IJCAI 2024.)
 
 - [FedGTA: Topology-aware Averaging for Federated Graph Learning](https://dl.acm.org/doi/abs/10.14778/3617838.3617842)
   
