@@ -26,11 +26,11 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
 
 ## 📝 Publication Highlights
 (* denotes the equal contribution)
-- [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](https://arxiv.org/abs/2404.14061)
+- [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](https://arxiv.org/abs/2404.14061v2)
   
   **Yinlin Zhu**, Xunkai Li, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
   
-  arXiv preprint (Accepted by IJCAI 2024)
+  arXiv preprint (accepted by IJCAI 2024)
 
 - [FedGTA: Topology-aware Averaging for Federated Graph Learning](https://dl.acm.org/doi/abs/10.14778/3617838.3617842)
   
