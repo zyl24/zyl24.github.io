@@ -26,6 +26,12 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
 
 ## 📝 Publication Highlights
 (* denotes the equal contribution)
+- [OpenFGL: A Comprehensive Benchmarks for Federated Graph Learning](https://arxiv.org/abs/2408.16288)
+  
+  Xunkai Li*, Yinlin Zhu*, Boyang Pang, Guochen Yan, Yeyu Yan, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
+  
+  arXiv preprint (submitted to VLDB 2025)
+  
 - [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](https://arxiv.org/abs/2404.14061v2)
   
   **Yinlin Zhu**, Xunkai Li, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
@@ -37,3 +43,9 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
   Xunkai Li, Zhengyu Wu, Wentao Zhang, **Yinlin Zhu**, Rong-Hua Li, Guoren Wang
   
   Proceedings of the VLDB Endowment **(VLDB), 2024**
+
+
+
+
+
+
