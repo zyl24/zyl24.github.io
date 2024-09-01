@@ -28,7 +28,7 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
 (* denotes the equal contribution)
 - [OpenFGL: A Comprehensive Benchmarks for Federated Graph Learning](https://arxiv.org/abs/2408.16288)
   
-  Xunkai Li*, Yinlin Zhu*, Boyang Pang, Guochen Yan, Yeyu Yan, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
+  Xunkai Li*, **Yinlin Zhu***, Boyang Pang, Guochen Yan, Yeyu Yan, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
   
   arXiv preprint (submitted to VLDB 2025)
   
