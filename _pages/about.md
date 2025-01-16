@@ -30,7 +30,7 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
   
   Xunkai Li *, **Yinlin Zhu** *, Boyang Pang, Guochen Yan, Yeyu Yan, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
   
-  arXiv preprint (submitted to VLDB 2025)
+  arXiv preprint (accepted by VLDB 2025)
   
 - [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](https://arxiv.org/abs/2404.14061v2)
   
