@@ -30,20 +30,25 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
   
   Yinlin Zhu, Miao Hu, Di Wu
   
-  arXiv preprint (accepted by KDD 2025)
+  arXiv preprint (accepted by **KDD 2025**)
 
+- [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573)
+
+  Hao Zhang, Xunkai Li, **Yinlin Zhu**, Lianglin Hu
+
+  arXiv preprint (accepted by **IJCAI 2025**)
   
 - [OpenFGL: A Comprehensive Benchmarks for Federated Graph Learning](https://arxiv.org/abs/2408.16288)
   
   Xunkai Li *, **Yinlin Zhu** *, Boyang Pang, Guochen Yan, Yeyu Yan, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
   
-  arXiv preprint (accepted by VLDB 2025)
+  arXiv preprint (accepted by **VLDB 2025**)
   
 - [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](https://arxiv.org/abs/2404.14061v2)
   
   **Yinlin Zhu**, Xunkai Li, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
   
-  arXiv preprint (accepted by IJCAI 2024)
+  arXiv preprint (accepted by **IJCAI 2024**)
 
 - [FedGTA: Topology-aware Averaging for Federated Graph Learning](https://dl.acm.org/doi/abs/10.14778/3617838.3617842)
   
