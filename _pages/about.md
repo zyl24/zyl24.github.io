@@ -28,7 +28,7 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
 (* denotes the equal contribution)
 - [Federated Continual Graph Learning](https://arxiv.org/abs/2411.18919)
   
-  Yinlin Zhu, Miao Hu, Di Wu
+  **Yinlin Zhu**, Miao Hu, Di Wu
   
   arXiv preprint (accepted by **KDD 2025**)
 
