@@ -28,7 +28,7 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
 (* denotes the equal contribution)
 - [Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684) <font color="red">[NeurIPS 2025]</font>
   
-  **Yinlin Zhu***, Xunkai Li*, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
+  **Yinlin Zhu**\*, Xunkai Li\*, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
   
   
 
