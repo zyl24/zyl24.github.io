@@ -33,7 +33,8 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
   NeurIPS 2025
 
 - [FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning](https://arxiv.org/abs/2504.14188)
-  Zekai Chen, Xunkai Li, Yinlin Zhu, Rong-Hua Li, Guoren Wang
+
+  Zekai Chen, Xunkai Li, **Yinlin Zhu**, Rong-Hua Li, Guoren Wang
 
   CIKM 2025
   
