@@ -26,7 +26,7 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
 
 ## 📝 Publication Highlights
 (* denotes the equal contribution)
-- [Federated Continual Graph Learning](https://arxiv.org/abs/2411.18919)
+- [Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684)
   
   **Yinlin Zhu***, Xunkai Li*, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
   
@@ -37,7 +37,7 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
 
   CIKM 2025
   
-- [Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684)
+- [Federated Continual Graph Learning](https://arxiv.org/abs/2411.18919)
   
   **Yinlin Zhu**, Miao Hu, Di Wu
   
