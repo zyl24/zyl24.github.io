@@ -26,6 +26,15 @@ I’m a Ph.D. student in the School of Computer Science and Engineering at Sun Y
 
 ## 📝 Publication Highlights
 (* denotes the equal contribution)
+- [Rethinking Multimodal Point Cloud Completion: A Completion-by-Correction Perspective]() <font color="red">[AAAI 2026]</font>
+  
+  Wang Luo, Di Wu, Hengyuan Na, **Yinlin Zhu**, Miao Hu, Guocong Quan
+
+- [PAGE: A Unified Approach for Federated Graph Unlearning]() <font color="red">[AAAI 2026]</font>
+  
+  Yuming Ai, Xunkai Li, Jiaqi Chao, Bowen Fan, Zhengyu Wu, **Yinlin Zhu**, Rong-Hua Li, Guoren Wang
+
+  
 - [Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684) <font color="red">[NeurIPS 2025]</font>
   
   **Yinlin Zhu**\*, Xunkai Li\*, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
